@@ -4,19 +4,20 @@
   "description": "smoot scroll example",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andycandy01/SMOOTH_SCROLL_EXAMPLE.git"
+    "url": "git+https://github.com/lauhard/smooth-scroll.git"
   },
   "author": "lauhard_dev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andycandy01/SMOOTH_SCROLL_EXAMPLE/issues"
+    "url": "https://github.com/lauhard/smooth-scroll/issues"
   },
-  "homepage": "https://github.com/andycandy01/SMOOTH_SCROLL_EXAMPLE#readme",
+  "homepage": "https://github.com/lauhard/smooth-scroll",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "normalize.css": "^8.0.1"
   }
 }
