@@ -1,1 +1,1 @@
-"# smooth-scroll" 
+"# smooth-scroll with intersection observer" 
